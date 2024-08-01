@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ —±úÿÿÿÿJ$80d2efdd-3276-4ccf-b7b7-1158dc8a001b
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(÷Š¤ñşÿÿÿÿ8Æ¼†ç2
+V
+java:S3516
+"9Refactor this method to not always return the same value.(ğúšÔ8Ì¼†ç2
+‘
+java:S3655$"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(”–¶¢úÿÿÿÿJ$be0cf1ab-013a-487e-b0c5-307df4c8285e
+v	java:S125"<This block of commented-out lines of code should be removed.(ØïévJ$931c1865-23a7-42b8-a4a6-7ca9f766fc23
+w	java:S125"<This block of commented-out lines of code should be removed.(â…×±J$2c3ef973-3524-4ffc-9e4e-caef831634c8
+k	java:S106$"+Replace this use of System.out by a logger.(”–¶¢úÿÿÿÿJ$a08cff56-da71-44e8-a7df-e4e60c161972
+k	java:S106&"+Replace this use of System.out by a logger.(ë°´¿ùÿÿÿÿJ$b1644d98-ba3e-47ee-844d-33949d19c418

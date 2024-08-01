@@ -1,0 +1,16 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ãÖÎJ$f4fef19c-3cc3-44a6-8be4-98633a44c993
+k	java:S106"+Replace this use of System.out by a logger.(Å­ËİúÿÿÿÿJ$4229a129-ee75-44f5-9bb1-78855928baf1
+p
+java:S1611"/Remove the parentheses around the "s" parameter(‘æĞÊüÿÿÿÿJ$49249f26-7cb4-40c1-904f-4097c847de7b
+
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‘æĞÊüÿÿÿÿJ$4eaffea7-8de7-4c2e-bcae-3b81fca16565
+k	java:S106"+Replace this use of System.out by a logger.(‘æĞÊüÿÿÿÿJ$52d87485-147b-4394-9352-e9ea242eabb8
+|
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¶×éJ$c9c8ccdf-7cee-45cc-b997-64d1782f29c0
+f	java:S106"+Replace this use of System.out by a logger.(¶×éJ$9569f741-184c-4144-8779-35454f2e4de0
+s
+java:S1611"2Remove the parentheses around the "name" parameter(§ëí×øÿÿÿÿJ$58c3029e-7e3c-4c1f-8831-78812c0f263c
+k	java:S106"+Replace this use of System.out by a logger.(Î­¢üÿÿÿÿJ$39156771-5cec-4c5c-b78d-15ed56a5cca4
+e	java:S106"+Replace this use of System.out by a logger.(ı´0J$24ad7687-49b4-42fe-912d-5bd5ef562bb9
+k	java:S106""+Replace this use of System.out by a logger.(Å­ËİúÿÿÿÿJ$14489917-067a-407e-9290-cf86c547db0b
